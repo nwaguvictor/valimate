@@ -1,0 +1,19 @@
+{
+	"name": "validator",
+	"version": "1.0.0",
+	"description": "",
+	"main": "validator.js",
+	"scripts": {
+		"start": "node validator"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nwaguvictor/valimate.git"
+	},
+	"author": "victechie",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/nwaguvictor/valimate/issues"
+	},
+	"homepage": "https://github.com/nwaguvictor/valimate#readme"
+}
